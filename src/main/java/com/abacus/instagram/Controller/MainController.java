@@ -1,4 +1,4 @@
-package com.abacus.instagram.controller;
+package com.abacus.instagram.Controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
