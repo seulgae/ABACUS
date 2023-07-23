@@ -1,2 +1,2 @@
 # ABACUS
-ABACUS 스터디 로컬 프로젝트
+IntelliJ / SpringBoot 3.1.2 / JDK 17 / MariaDB / thymeleaf / JPA
