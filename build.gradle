@@ -31,9 +31,9 @@ dependencies {
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
-tasks.named('test') {
-	useJUnitPlatform()
-}
+//tasks.named('test') {
+//	useJUnitPlatform()
+//}
 /* Spring boot가 실행될 때 React 프로젝트를 먼저 build하고 SpringBoot 프로젝트 Build 결과에 포함시킨다는 내용 */
 
 def reactAppDir = "$projectDir/src/main/webapp/reactapp"
